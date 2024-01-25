@@ -1,5 +1,8 @@
 # konakart-stimulation
 
+We are going to use an open-source JSP eCommerce application running on docker.
+
+
 ### MainLayout.jsp
 1. Edit Elastic Cloud deployment (serverUrl: 'https://xxx.apm.asia-southeast1.gcp.elastic-cloud.com:443')
 2. Edit logic if required for additional custom labels
