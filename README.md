@@ -25,8 +25,4 @@ else{
 3. Run docker command
 ```
 docker stop kk9600 && docker rm kk9600 && docker run -d --name kk9600 --platform linux/amd64 -v ./MainLayout.jsp:/usr/local/konakart/webapps/konakart/WEB-INF/jsp/MainLayout.jsp -v ./LogOutBody.jsp:/usr/local/konakart/webapps/konakart/WEB-INF/jsp/LogOutBody.jsp -v ./elastic-apm-rum.umd.min.js:/usr/local/konakart/webapps/konakart/script/elastic-apm-rum.umd.min.js -p 8780:8780 -p 8783:8783 konakart/konakart_9600_ce
-```# konakart-simulation
-# konakart-simulation
-# konakart-simulation
-# konakart-simulation
-# konakart-simulation
+```
