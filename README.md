@@ -1,4 +1,4 @@
-# konakart-stimulation
+# konakart-simulation
 
 We are going to use an open-source JSP eCommerce application running on docker.
 https://www.konakart.com/downloads/community_edition/
